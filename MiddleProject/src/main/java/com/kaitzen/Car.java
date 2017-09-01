@@ -3,13 +3,13 @@ package com.kaitzen;
 import java.util.List;
 
 public class Car {
-	String domain;
-	Integer doors;
-	String color;
-	String fuel;
-	String kilometers;
-	Double baggageSpace;
-	Integer passengersSpace;
+	private String domain;
+	private Integer doors;
+	private String color;
+	private String fuel;
+	private String kilometers;
+	private Double baggageSpace;
+	private Integer passengersSpace;
 	
 	Car() {}
 	
